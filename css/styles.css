@@ -2,11 +2,11 @@
 ======================== */
 
 #adam-duff-cover {
-  background-image: url(https://imgur.com/a/ml3QyWk);
+  background-image: url("https://imgur.com/a/BtrxbKQ");
 }
 
 #adam-duff-card {
-  background-image: url(https://imgur.com/a/CDSRLXP);
+  background-image: url("https://imgur.com/a/VLuTwAJ");
 }
 
 *, *:before, *:after {
@@ -161,6 +161,14 @@ a:visited {
 
 #mathieu-balez-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/mathieu-balez.jpeg");
+}
+
+#adam-duff-cover {
+ background-image: url("https://imgur.com/jCO6Wl9");
+}
+
+#adam-duff-card {
+ background-image: url("https://imgur.com/86AyvUI");
 }
 
 .view-profile-div {
